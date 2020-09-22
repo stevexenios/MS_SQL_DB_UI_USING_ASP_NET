@@ -5,6 +5,6 @@ Database contains information typically found in a car rental and selling busine
 Purpose is to create analytical queries for users such as buyers and renters to find cheapest vehicles to rent or sell, either by make, model, or number of seats.
 End result was a successfully deployed ASP.NET web app that was connected to the DB, allowing users to search the database, without worrying about underlying SQL querries.
 
-![image1](Screenshot (45).png)
+![image1](https://github.com/stevexenios/WEB_APP/blob/master/Screenshot%20(45).png)
 
-![image2](Screenshot (46).png)
+![image2](https://github.com/stevexenios/WEB_APP/blob/master/Screenshot%20(46).png)
